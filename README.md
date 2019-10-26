@@ -1,22 +1,7 @@
 ## Flight_Delay_Prediction_Model
+ <br />
 # Project 3 : Telling a Story with Data Visualization
-
-Apply Data Sceince Packages to create a machine learning model and tell a story with data visualization BI Tools.
-<br />
-Used the following resources for the project
-<br />
-Python
-<br />
-Pandas 
-<br />
-Python Matplotlib 
-<br />
-PlotlyJavaScript<br />  
-Cloud-Amazon AWS
-<br />
-Tableau
-<br />
-
+ <br />
 # Analyzing the Bureau of Transportation Statistics Data
 <br />
 
