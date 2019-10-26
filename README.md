@@ -32,6 +32,8 @@ For this project we analyzed the Air Traffic Data downloaded from the US Bureau 
 *https://www.transtats.bts.gov/ONTIME/Departures.aspx.*
 <br />
 We leveraged tableau to create basic visualizations to understand the robustness of our data and to find the business routes and airlines.
+ ![Tableau Dashboard](TableauDashboard.png)
+ *https://public.tableau.com/profile/saj.khan6439#!/vizhome/flightdata_Saj/AirportDashboard?publish=yes*
 <br />
 We then analyzed data from 2010 to 2019 to build a predictive model using scikit learn and Random Forest to predict the likely hood of a particular flight being delayed.
 <br />
