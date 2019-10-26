@@ -27,6 +27,21 @@ Tableau
  ![O'Hare International Airport - ORD](ORD.png)
 
 <br />
+Apply Data Sceince Packages to create a machine learning model and tell a story with data visualization BI Tools.
+<br />
+Used the following resources for the project
+<br />
+Python
+<br />
+Pandas 
+<br />
+Python Matplotlib 
+<br />
+PlotlyJavaScript<br />  
+Cloud-Amazon AWS
+<br />
+Tableau
+<br />
  
  ## Summary
 
