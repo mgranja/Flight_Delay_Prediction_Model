@@ -2,7 +2,7 @@
  <br />
 Project 3 : Telling a Story with Data Visualization
  <br />
-** Analyzing the Bureau of Transportation Statistics Data **
+**Analyzing the Bureau of Transportation Statistics Data**
 <br />
 
  ### Team Members : Marylu Granja , Cesar Martinez , Saj Khan
