@@ -38,7 +38,7 @@ For this project we analyzed the Air Traffic Data downloaded from the US Bureau 
 
 <br />
 
-We leveraged tableau to create basic visualizations to understand the robustness of our data and to find the business routes and airlines.
+We leveraged Tableau to create basic visualizations to understand the robustness of our data and to find the busiest routes and airlines.
 
 <br />
 
@@ -49,7 +49,7 @@ We leveraged tableau to create basic visualizations to understand the robustness
 *https://public.tableau.com/profile/saj.khan6439#!/vizhome/flightdata_Saj/AirportDashboard?publish=yes*
 
 <br />
-We then analyzed data from 2010 to 2019 to build a predictive model using scikit learn and Random Forest to predict the likely hood of a particular flight being delayed.
+We then analyzed data from 2010 to 2018 to build a predictive model using scikit learn and Random Forest to predict the likely hood of a particular flight being delayed.
 
 <br />
 
@@ -58,8 +58,8 @@ Furthermore using API calls from *https://www.flightstats.com/v2/* we compared t
 
 ### ETL - Bureau of Transportation Statistics Data
 
-The Bureau provided indivisual csv files for each airlines. We used an alteryx workflow to combine all the files into one csv file for easier consumption via tableau for our visualization exercise. 
-We also used alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make a size of the file smaller.
+The bureau provided indivisual csv files for each airlines. We used an Alteryx workflow to combine all the files into one csv file for easier consumption via Tableau for our visualization exercise. 
+We also used Alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make the size of the file smaller.
 
 ![Alteryx Dashboard](Alteryx.png)
 
