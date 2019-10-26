@@ -58,6 +58,12 @@ Furthermore using API calls from *https://www.flightstats.com/v2/* we compared t
 
 ### ETL - Bureau of Transportation Statistics Data
 
+The Bureau provided indivisual csv files for each airlines. We used an alteryx workflow to combine all the files into one csv file for easier consumption via tableau for our visualization exercise. 
+We also used alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make a size of the file smaller.
+
+![Alteryx Dashboard](Alteryx.png)
+
+
 ### Add Marylu's Section
 ### Add Cesar's Section 
 
