@@ -1,7 +1,6 @@
 ## Flight Delay Prediction Model ##
- <br />
- Project 3 : Telling a Story with Data Visualization
- <br />
+ <br /> Project 3 : Telling a Story with Data Visualization <br />
+
 ## Analyzing the Bureau of Transportation Statistics Data ##
  <br />
 
