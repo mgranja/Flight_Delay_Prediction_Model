@@ -65,7 +65,7 @@ Furthermore using API calls from *https://www.flightstats.com/v2/* we compared t
 
 ## Machine Learning
 
-For the prediction Machine Learning strategy we chose Random Forest Classifer. The data set was transformed to prepare it for the various models -- one for all the carriers and indiviual models for each carrier.
+For the prediction Machine Learning strategy we chose Random Forest Classifer. The data set was transformed to prepare it for the various models -- one for all the carriers and individual models for each carrier.
 
 ``` SQL
 -- transform data from Bureau
