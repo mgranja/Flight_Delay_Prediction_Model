@@ -40,12 +40,12 @@ For this project we analyzed the Air Traffic Data downloaded from the US Bureau 
 
 ### ETL - Bureau of Transportation Statistics Data
 
-The bureau provided indivisual csv files for each airlines. We used an Alteryx workflow to combine all the files into one csv file for easier consumption via Tableau for our visualization exercise. 
-We also used Alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make the size of the file smaller.
+The bureau provided individual csv file for each airline. We used an Alteryx workflow to combine all the files into one csv file for easier consumption via Tableau for our visualization exercise. 
+We also used Alteryx to sort our data by airline and by day and also we dropped a few unwanted columns to make the size of the file smaller.
 
 ![Alteryx Dashboard](Alteryx.png)
 
-We leveraged Tableau to create basic visualizations to understand the robustness of our data and to find the busiest routes and airlines.
+We leveraged Tableau to create basic visualizations to understand the robustness of the data and to find the busiest routes and airlines.
 
 <br />
 
