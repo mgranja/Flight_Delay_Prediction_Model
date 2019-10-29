@@ -1,0 +1,1111 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="11.7">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_AA_1014.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1014.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="714" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_AA_1519.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AA_1519.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_AE_1013.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1013.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="342" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_AE_1419.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AE_1419.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="462" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_AK.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_AK.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_DL.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_DL.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_EJ1.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ1.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_EJ2.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_EJ2.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_FT.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_FT.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="498" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_JB.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_JB.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="66" y="582" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_SP.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_SP.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="690" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_UA_1014.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1014.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="474" y="606" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_UA_1519.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_UA_1519.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="486" y="726" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv</File>
+          <FormatSpecificOptions>
+            <CodePage>28591</CodePage>
+            <Delimeter>,</Delimeter>
+            <IgnoreErrors>False</IgnoreErrors>
+            <FieldLen>254</FieldLen>
+            <AllowShareWrite>False</AllowShareWrite>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <ImportLine>8</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_VA.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Carrier Code" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Date (MM/DD/YYYY)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Flight Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Tail Number" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Destination Airport" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Scheduled departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Actual departure time" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Actual elapsed time (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Departure delay (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Delay Carrier (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Delay Weather (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Delay National Aviation System (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Delay Security (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Delay Late Aircraft Arrival (Minutes)" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_15" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_16" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_17" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_18" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_19" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_20" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_21" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_22" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_23" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_24" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_25" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_26" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_27" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_28" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_29" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+            <Field name="Field_30" size="254" source="File: C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_VA.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="17">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="1002" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="0">C:\Users\mc74292\Documents\EDUCATION\Group Project 3\New Data\New_Detailed_Statistics_Departures_Combined.csv</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <LineEndStyle>CRLF</LineEndStyle>
+            <Delimeter>,</Delimeter>
+            <ForceQuotes>False</ForceQuotes>
+            <HeaderRow>True</HeaderRow>
+            <CodePage>28591</CodePage>
+            <WriteBOM>True</WriteBOM>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>New_Detailed_Statistics_Departures_Combined.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="822" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="0">
+            <Field field="Carrier Code" order="Ascending" />
+            <Field field="Date (MM/DD/YYYY)" order="Ascending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Carrier Code - Ascending
+Date (MM/DD/YYYY) - Ascending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="930" y="6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Carrier Code" selected="True" />
+            <SelectField field="Date (MM/DD/YYYY)" selected="True" />
+            <SelectField field="Flight Number" selected="True" />
+            <SelectField field="Tail Number" selected="True" />
+            <SelectField field="Destination Airport" selected="True" />
+            <SelectField field="Scheduled departure time" selected="True" />
+            <SelectField field="Actual departure time" selected="True" />
+            <SelectField field="Actual elapsed time (Minutes)" selected="True" />
+            <SelectField field="Departure delay (Minutes)" selected="True" />
+            <SelectField field="Delay Carrier (Minutes)" selected="True" />
+            <SelectField field="Delay Weather (Minutes)" selected="True" />
+            <SelectField field="Delay National Aviation System (Minutes)" selected="True" />
+            <SelectField field="Delay Security (Minutes)" selected="True" />
+            <SelectField field="Delay Late Aircraft Arrival (Minutes)" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#6">
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#7">
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#8">
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#9">
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#10">
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#11">
+      <Origin ToolID="12" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#12">
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#13">
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection name="#14">
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="17" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>New Combined Workflow2</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
