@@ -38,6 +38,13 @@ For this project we analyzed the Air Traffic Data downloaded from the US Bureau 
 
 <br />
 
+### ETL - Bureau of Transportation Statistics Data
+
+The bureau provided indivisual csv files for each airlines. We used an Alteryx workflow to combine all the files into one csv file for easier consumption via Tableau for our visualization exercise. 
+We also used Alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make the size of the file smaller.
+
+![Alteryx Dashboard](Alteryx.png)
+
 We leveraged Tableau to create basic visualizations to understand the robustness of our data and to find the busiest routes and airlines.
 
 <br />
@@ -55,13 +62,6 @@ We then analyzed data from 2010 to 2018 to build a predictive model using scikit
 
 Furthermore using API calls from *https://www.flightstats.com/v2/* we compared the 2019 actual data with our predictive model to understand whether our model is a good fit.
 <br />
-
-### ETL - Bureau of Transportation Statistics Data
-
-The bureau provided indivisual csv files for each airlines. We used an Alteryx workflow to combine all the files into one csv file for easier consumption via Tableau for our visualization exercise. 
-We also used Alteryx to sort our data by Airline and by day and also we dropped a few unwanted columns to make the size of the file smaller.
-
-![Alteryx Dashboard](Alteryx.png)
 
 ## Machine Learning
 
