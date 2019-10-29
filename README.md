@@ -99,7 +99,7 @@ from model_data_all
 where carrier_code = 'American Airlines';
 ```
 
-Once the tranformation was finalized, the prediction model was created:
+Once the transformation was finalized, the prediction model was created:
 
 ``` python
 df = pd.get_dummies(df, columns=['origin', 'destination'])
