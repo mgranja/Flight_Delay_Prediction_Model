@@ -11,9 +11,9 @@
  ![O'Hare International Airport - ORD](ORD.png)
 
 <br />
-Apply Data Sceince Packages to create a machine learning model and tell a story with data visualization BI Tools.
+Apply Data Science packages to create a machine learning model and tell a story with data visualization BI Tools.
 <br />
-Used the following resources for the project
+We used the following resources for the project:
 <br />
 Python
 <br />
