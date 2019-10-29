@@ -117,7 +117,7 @@ model.fit(train_x, train_y)
 
 After all of the models were created and processed, we assessed the performance of the classification model. 
 
-We summazrized the Class Prediction Accuracy, ROC AUC, Precision and Recall scores in the table below.  
+We summarized the Class Prediction Accuracy, ROC AUC, Precision and Recall scores in the table below.  
 
 ![Prediction Summary](ML_Scores.png)
 
