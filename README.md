@@ -173,6 +173,6 @@ We noticed on September 3, the model was not efficient on its prediction. We res
 
 ## Further considerations
 
-For our topic, we are satisfied with the approach of the data analysis and results. We would strive to attain a higher AUC score on a more pertinent topic like medical-related or capital punishment. We would implment other variables like a weather API, Linear Regression or additional flight data to streghten our model. 
+For our topic, we are satisfied with the approach of the data analysis and results. A higher AUC score is mandated on a more pertinent topic like cancer research. We would implment other variables like a weather API, Linear Regression or additional flight data to streghten our model. 
 
 
