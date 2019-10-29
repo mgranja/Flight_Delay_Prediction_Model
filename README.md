@@ -173,6 +173,6 @@ We noticed on September 3, the model was not efficient on its prediction. We res
 
 ## Further considerations
 
-For our topic, we are satisfied with the approach of the data analysis and results. To strengthen the model, we would implement other variables like a weather API or additional flight data. We would explore other models like Linear Regression.
+For our topic, we are satisfied with the approach of the data analysis and results. To strengthen the model, we would implement other variables like a weather API or additional flight data. We would also explore other models like Linear Regression.
 
 
