@@ -104,12 +104,12 @@ Once the transformation was finalized, the prediction model was created:
 ``` python
 df = pd.get_dummies(df, columns=['origin', 'destination'])
 
-# split the data for training, testing
+# split the data (80:20) for training, testing 
 from sklearn.model_selection import train_test_split
 train_x, test_x, train_y, test_y = train_test_split(df.drop('delayed', axis=1), df['delayed'], \
     test_size=0.2, random_state=42)
 
-# assign the RandomForestCallisifer to the model
+# assign the RandomForestClassifer to the model
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier(random_state=13)
 model.fit(train_x, train_y)
