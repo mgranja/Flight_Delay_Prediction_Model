@@ -149,7 +149,7 @@ train_predictions = model.predict(train_x)
 precision_score(train_y, train_predictions)
 ```
 
-Precision Score is the percentage of results that are relevant. For this model, precision is how accurately it classifies a delay. 
+Precision Score is the percentage of results that are relevant. 
 
 ![Precision Score](Precision_equation.png)
 
@@ -158,9 +158,11 @@ from sklearn.metrics import recall_score
 recall_score(train_y, train_predictions)
 ```
 
-Recall Score is the percentage total relevant results correctly classified by the algorithm. The recall score encompasses all the 
+Recall Score is the percentage total relevant results correctly classified by the algorithm. 
 
 ![Recall Score](Recall_equation.png)
+
+The main difference between Precision and Recall is that Precision only takes into account when the model predicted a delay as opposed to Recall that takes into account actual delays.  
 
 Predictions were processed for each carrier and compared with actual outcomes for the dates September 1 - 7:
 
