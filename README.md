@@ -162,7 +162,7 @@ Recall Score is the percentage total relevant results correctly classified by th
 
 ![Recall Score](Recall_equation.png)
 
-The main difference between Precision and Recall is that Precision only takes into account when the model predicted a delay as opposed to Recall that takes into account actual delays.  
+The main difference between Precision and Recall is that Precision only takes into account when the model predicted a delay as opposed to Recall that takes into account actual delays.  The deference of which score to consider is based on the value of the potential error. 
 
 Predictions were processed for each carrier and compared with actual outcomes for the dates September 1 - 7:
 
