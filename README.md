@@ -141,9 +141,7 @@ ROC is the probabilty curve and AUC is the area under the curve.  These metrics 
 
 ![ROC Curve](ROC_Curve_AllCarriers.png)
 
-With only one variable, the average ROC AUC score is over 60% which is a better prediction than a random estimate.
-
-Depending on the audience, there is an argument on what has a higher importance -- Precision or Recall scores. 
+With only one variable, the average ROC AUC score is over 60% which is a better prediction than a random estimate. 
 
 ```python
 from sklearn.metrics import precision_score
@@ -151,7 +149,7 @@ train_predictions = model.predict(train_x)
 precision_score(train_y, train_predictions)
 ```
 
-Precision Score is the percentage of results that are relevant.
+Precision Score is the percentage of results that are relevant. For this model, precision is how accurately it classifies a delay. 
 
 ![Precision Score](Precision_equation.png)
 
@@ -160,7 +158,7 @@ from sklearn.metrics import recall_score
 recall_score(train_y, train_predictions)
 ```
 
-Recall Score is the percentage total relevant results correctly classified by the algorithm. 
+Recall Score is the percentage total relevant results correctly classified by the algorithm. The recall score encompasses all the 
 
 ![Recall Score](Recall_equation.png)
 
