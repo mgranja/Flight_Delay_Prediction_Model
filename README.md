@@ -1,6 +1,7 @@
-## Flight Delay Prediction Model ##
- <br /> Project 3 : Telling a Story with Data Visualization <br />
+<br />  Northwestern Data Science Project 3 : Telling a Story with Data Visualization <br />
 
+## Flight Delay Prediction Model ##
+ <br />  
 ## Analyzing the Bureau of Transportation Statistics Data ##
  <br />
 
