@@ -142,7 +142,6 @@ ROC is the probabilty curve and AUC is the area under the curve.  These metrics 
 ![ROC Curve](ROC_Curve_AllCarriers.png)
 
 With only one variable, the average ROC AUC score is over 60% which is a better prediction than a random estimate.
-This suggests additional variables have the potential to improve the score's value. 
 
 Depending on the audience, there is an argument on what has a higher importance -- Precision or Recall scores. 
 
