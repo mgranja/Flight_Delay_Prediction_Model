@@ -113,6 +113,10 @@ train_x, test_x, train_y, test_y = train_test_split(df.drop('delayed', axis=1), 
 from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier(random_state=13)
 model.fit(train_x, train_y)
+
+# confusion matrix
+from sklearn.metrics import confusion_matrix
+confusion_matrix(test_y, predicted)
 ```
 
 After all of the models were created and processed, we assessed the performance of the classification model. 
